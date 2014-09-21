@@ -1,4 +1,4 @@
-php- Cut html string
+PHP Cut html string
 ===================
 This function is used to cut a html string but still keep html tags safely. I based on algorithm of this resource: https://github.com/ErKoala/CuTML. I converted from javascript source code to PHP code.
 
